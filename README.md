@@ -1,4 +1,4 @@
-# Submissão para Rinha de Backend, Segunda Edição: 2024/Q1 - Controle de Concorrência
+# Submissão para Rinha de Backend, Segunda Edição: 2024 - Controle de Concorrência
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Logo Nginx" width="200" height="auto">
 <br />
